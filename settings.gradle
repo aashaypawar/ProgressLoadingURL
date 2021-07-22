@@ -1,0 +1,2 @@
+rootProject.name = "ProgressLoadingURL"
+include ':app'
